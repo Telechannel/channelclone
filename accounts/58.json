@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "telechannel-clone",
+  "private_key_id": "ada464ac735ef70d32c823912e8bc5aa1cf8ac5f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDrVp3sBFlNBcUT\nK4via9fSgz9jLWL+8QxwHlue2Je87UbgI0lsVmLEfOjke+0w2itORuvD5vTUfeQr\nyICyuxdK+FL7WtKeaFr5oqScmXBK7a752EfJtcc81Jgo8HoM9TW+JYs6rQTXsl9s\nFHoTqwtV8oLPIPZAwQiDvTUDwoGmqEVH58v92m39LMbt/bp+i0rePYbsGLkqRi8P\n3QkgFz4e8FghppQLrAbAF4KJ5kqsipWtlFV30aFFO6+Qhxykt6OSKf+eny4m8e8I\nWHYmMOnN8UytqXEtMFzqli8+JhbYTiJP1wcm/VGwnmq8ooKBGbs+twV9+j8CZ/vs\nEfQEQuynAgMBAAECggEAGV3Et+PgHEU68M4IzecB5FbxRidmPESPKqabCYwfDuYk\ndZRYHa1SCAvOrpINBu79K/rI/tyuFxlatr1t4dX4tMP/bchkW160L6QwShDf4bOs\n4JFHa56EUzI3FHKXNT5ZBJ3XXAO6OeWoE2ZBok0Vc7YoE1tiL6ie2lRSmo0knGnh\n2u31mW3XmIiaHQvrNoNFBZsG5z8CcMUW1S980pv1oFU3T3LeY2uFRfp9shQnEP0U\n3ibaJGu056C2OSmhkzgPnF6eMfIYOvXylv5GAdOYfpvPwZu4gAZaesBItdGYo9TM\ntxrMQZZsXikiDhLITsyM7JrNYFbWqBwVEowTux0ggQKBgQD+lK76IAV2QjI06amx\nVBlaxrD3naTCqAA4Hagf/DVwPKwWwjnJ4BHC+y5Md2d0uyHODtmGsjSK1Dbuy/yO\nHPRRybDupa+apf4siyBHIah+61hxqfIscVyzBeqKboZYf76ODNibsDf6zpyBiLpb\nYbsVTGvZSBZZ7aeEnLzXVB0NaQKBgQDspnjfg9TuOMwWTlRQ+l+LdTESRKvbQ6rf\nFxZlcK7FB9pyfX9sTEthk6IMKHZi8rVlgnj8K75haPy2jXYpwIc0DPVZbqIWp5Pi\nfcSdLxfYGvm/kMgB6ousLC5FySmDAWMzk5wDzaZkV85MGDBm2QhoJsd6Fdif1AAP\nkWSKTrQXjwKBgC+X5E5mhh7hqTkzJcI9ErBhzNu94PtzJPdYtAGmyOa+sP1gOiV/\nelKVWsZ43CJ6iYtYQ1pnHmOF4O8ru39l8lcH+cfjubyTo7z4FYS2yiVQIiy9tMSS\nPN5LENnoZ71LxHgR9rzEaPK+hYvB3/UNhEgrDU6Fp4gQYezs0HEBDJ1hAoGBAIN+\n/Ss11duJM94xKCjW9sBHHj1IazYrI4dTDN7Q/kv9USTNF0DWJAzUO/cFhML2mlUN\naqy0odT+wW2urToGARqrGKnZD7gG5eW0fMvanyU12BDaIkjuSy4gXpXocWiaHMVM\nACUc4JhhMgCWcE61yjYVVkJAYV5uLpp376XqlaeBAoGAce5VVW9ahuWhyhjfVOFY\nzvedoR7ES/wwfOhHmtxBQRbmOwPqQXiuAtxpALSPSnS2wOmkTueSqTjC7hk4c6Oy\nwfyHD3APWmpYAsh/x8PWC0BtSjr7GFlsEt8FOepIHRCp8TxJ1iCFHuPYS6AsXnY3\n3q5dJM9ZHRepSMkjUhtJ+AY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-y8vrjpl53j1cah5vt67h9dn4cx@telechannel-clone.iam.gserviceaccount.com",
+  "client_id": "101979732427607477093",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-y8vrjpl53j1cah5vt67h9dn4cx%40telechannel-clone.iam.gserviceaccount.com"
+}
